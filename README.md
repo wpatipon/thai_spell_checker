@@ -1,6 +1,6 @@
 # Thai Spell Checker
 Thai Spell Checker
-## INSTALLATION
+### INSTALLATION
 1. install anaconda3 
 2. install tensorflow for deepcut: `conda install tensorflow`
 3. install keras for deepcut: `conda install keras`
