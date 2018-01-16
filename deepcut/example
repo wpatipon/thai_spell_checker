@@ -1,0 +1,6 @@
+import deepcut
+import sys
+
+list_word = deepcut.tokenize('ทดสอบตัดคำ')
+file = open('output.txt', 'w', encoding='utf8')   #VIA ENCODING UTF8 PROBLEM
+file.write('|'.join(list_word))
