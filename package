@@ -1,0 +1,7 @@
+INSTALL DEEPCUT
+  - conda install tensorflow
+  - conda install keras
+  - conda install deepcut
+  
+INSTALL PYMYSQL
+  - conda install pymysql
